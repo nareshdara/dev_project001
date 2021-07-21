@@ -1,5 +1,5 @@
-access_key = "AKIAUOH5KM2ER2SNQR5E"
-secret_key = "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"
+access_key = "*******************"
+secret_key = "***************************************************"
 vpc_1_name = "DEVOPS_b06"
 vpc_2_name = "DEVOPS_b06"
 vpc_1_cidr = "10.6.0.0/16"
